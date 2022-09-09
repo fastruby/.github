@@ -1,3 +1,11 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../fr_logo_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="../fr_logo_light.png">
+  <img alt="Shows dark version of FastRuby log in dark mode and light version in light mode" src="../fr_logo_light.png">
+</picture>
+
+---
+
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fastrubyio)
 
 # Welcome to the FastRuby's GitHub!
