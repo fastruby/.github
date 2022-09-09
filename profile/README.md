@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../fr_logo_dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="../fr_logo_light.png">
-  <img alt="Shows dark version of FastRuby log in dark mode and light version in light mode" src="../fr_logo_light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fastruby/.github/blob/60c218db0b03e10318931d080c157c4b829c792c/fr_logo_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/fastruby/.github/blob/60c218db0b03e10318931d080c157c4b829c792c/fr_logo_light.png">
+  <img alt="Shows dark version of FastRuby log in dark mode and light version in light mode" src="https://github.com/fastruby/.github/blob/60c218db0b03e10318931d080c157c4b829c792c/fr_logo_light.png">
 </picture>
 
 ---
