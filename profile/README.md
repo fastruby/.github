@@ -18,8 +18,8 @@ Feel free to dive into any on of the public repos we have listed below. We accep
 Make sure to read each project's README carefully on contribution guidelines and have fun!
 
 ## Websites
-* [FastRuby.io](https://fastruby.io)
-* [OmbuLabs.com](https://ombulabs.com)
+* [FastRuby.io](https://www.fastruby.io)
+* [OmbuLabs.com](https://www.ombulabs.com)
 
 ## Projects
 * [skunk](https://github.com/fastruby/skunk)
@@ -28,7 +28,7 @@ Make sure to read each project's README carefully on contribution guidelines and
 * [fast-ruby](https://github.com/fastruby/fast-ruby)
 * [rails_stats](https://github.com/fastruby/rails_stats)
 * [pecas](https://github.com/fastruby/pecas)
-* [manage-heroku-view-app](https://github.com/fastruby/manage-heroku-review-app)
+* [manage-heroku-review-app](https://github.com/fastruby/manage-heroku-review-app)
 * [pr-unlabeler](https://github.com/fastruby/pr-unlabeler)
 * [audit](https://github.com/fastruby/audit)
 
