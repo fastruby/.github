@@ -34,8 +34,8 @@ Make sure to read each project's README carefully on contribution guidelines and
 
 ## Our Commitment to Open Source
 
-We maintain, co-maintain, and contribute to OSS because we love writing software and sharing it. It's part of our core
-values to be "open by default"
+We maintain, co-maintain, and contribute to OSS because we love writing software and sharing it. It's part of our [core
+values](https://www.ombulabs.com/blog/values/our-values.html) to be "open by default"
 
 To elaborate a bit, we use a lot of open source tools everyday and we truly believe we should give back to the community.
 
