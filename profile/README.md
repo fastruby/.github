@@ -20,6 +20,7 @@ Make sure to read each project's README carefully on contribution guidelines and
 ## Websites
 * [FastRuby.io](https://www.fastruby.io)
 * [OmbuLabs.com](https://www.ombulabs.com)
+* [UpgradeJS.com](https://www.upgradejs.com)
 
 ## Projects
 * [skunk](https://github.com/fastruby/skunk)
@@ -27,10 +28,12 @@ Make sure to read each project's README carefully on contribution guidelines and
 * [dotenv_validator](https://github.com/fastruby/dotenv_validator)
 * [fast-ruby](https://github.com/fastruby/fast-ruby)
 * [rails_stats](https://github.com/fastruby/rails_stats)
-* [pecas](https://github.com/fastruby/pecas)
 * [manage-heroku-review-app](https://github.com/fastruby/manage-heroku-review-app)
 * [pr-unlabeler](https://github.com/fastruby/pr-unlabeler)
 * [audit](https://github.com/fastruby/audit)
+* [jekyll-images-cdn](https://github.com/fastruby/jekyll-images-cdn)
+* [jekyll-external-link-accessibility](https://github.com/fastruby/jekyll-external-link-accessibility)
+* [heroku-buildpack-multiple-gemfiles](https://github.com/fastruby/heroku-buildpack-multiple-gemfiles)
 
 ## Our Commitment to Open Source
 
