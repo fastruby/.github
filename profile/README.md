@@ -19,7 +19,7 @@ Make sure to read each project's README carefully on contribution guidelines and
 
 ## Websites
 * [FastRuby.io](https://www.fastruby.io)
-* [OmbuLabs.com](https://www.ombulabs.com)
+* [OmbuLabs.ai](https://www.ombulabs.ai)
 * [UpgradeJS.com](https://www.upgradejs.com)
 
 ## Projects
