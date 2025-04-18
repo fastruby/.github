@@ -6,7 +6,7 @@
 
 ---
 
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fastrubyio)
+[![Mastodon](https://img.shields.io/static/v1?style=for-the-badge&message=Mastodon&color=6364FF&logo=Mastodon&logoColor=FFFFFF&label=)](https://ruby.social/@FastRuby) &nbsp; [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=6364FF&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/showcase/upgrade-rails)
 
 # Welcome to the FastRuby's GitHub!
 
